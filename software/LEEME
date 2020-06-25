@@ -1,0 +1,19 @@
+Para poder compilar el Programa deberemos solo que escribir:
+
+./Ejecutar (Numero de semilla a usar)	// (Semilla usada para resultados => 1)
+
+- Este ejecutable compila y ejecuta directamente con todos los ficheros de datos.
+
+Realizamos esto ya que solo debemos de compilar un solo .cpp (main.cpp) para compilar nuestro programa.
+
+Archivos en Directorios:
+
+BIN:
+ - Ejecutable
+ - Fichero de datos
+
+FUENTES:
+ - Codigo a ejecutar
+
+DOC:
+ - PDF con la documentacion de la Practica
